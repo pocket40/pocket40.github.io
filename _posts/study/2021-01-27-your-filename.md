@@ -11,4 +11,4 @@ related_posts:
   - category/_posts/study/2020-12-26-making-blog-03.md
 published: true
 ---
-#ㄷㄹㄷ
+#8:17
